@@ -1,2 +1,5 @@
 # HumanCaptcha
-A simple yet useless JavaScript captcha to verify that you are not a human.
+## Usage
+1. Download source
+2. Open `src/captcha.html` in your favorite web browser for more details.
+Thank you!
